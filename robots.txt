@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-1xz3xb.settlr.online/sitemap.xml
